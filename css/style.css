@@ -1,3 +1,10 @@
+/*Gallery*/
+.images{
+    margin-bottom: 10px;
+}
+
+
+/*All*/
 .subscribe{
     background: linear-gradient(to bottom, #33383c, #000);
     color: #a8abad;
